@@ -1,0 +1,35 @@
+
+
+ {"projects": [
+    {
+        "canvas": "Fox",
+        "designer": "Pip and Roo",
+        "photoUrl": "https://www.craftybunnybun.com/hubfs/IMG_20181211_190308-01-01-01.jpeg",
+        "alt": "Stitched fox with fluffy tail"
+     },
+     {
+        "canvas": "Dog",
+        "designer": "Cat and mouse",
+        "photoUrl": "https://www.supergurumi.com/wp-content/uploads/2022/03/Dog-Amigurumi-Pattern.jpg",
+        "alt": "Stitched cat and mouse with Whiskers"
+     },
+     {
+        "canvas": "Dragon",
+        "designer": "Jimmy Johns",
+        "photoUrl": "https://littleworldofwhimsy.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-18-at-9.39.40-PM.jpg",
+        "alt": "Stitched dragon with real Scales"
+     },
+     {
+        "canvas": "Book",
+        "designer": "Sub Way",
+        "photoUrl": "https://stringydingding.com/wp-content/uploads/2022/01/Free-toilet-paper-poop-plunger-crochet-pattern-bundle-funny-weird-crochet.png",
+        "alt": "stitched a real book"
+     },
+     {
+        "canvas": "Mona Lisa",
+        "designer": "No Idea",
+        "photoUrl": "https://i.etsystatic.com/12028258/r/il/640bf3/3728966452/il_570xN.3728966452_a6vy.jpg",
+        "alt": "It really looks like her"
+     }
+
+]}

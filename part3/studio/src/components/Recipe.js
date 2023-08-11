@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://thesimplesprinkle.com/brocks-lazy-boy-no-chew-stew-from-pokemon/";
+   let authorPhoto = "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/11/Featured-Image-Brock-and-His-Drying-Pan-Cropped.jpg";
+   let authorName = "Brock Harrison";
 
    return (
       <div>
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["1 tablespoon olive oil", "300 g vegan chicken pieces ", "½ yellow onion, finely chopped", "2 cloves of garlic, minced", "3 carrots, chopped"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -34,8 +34,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>Brock's Lazy Boy No Chew Stew</h1>
+            <p>Cream stew, also referred to as a white stew, is a popular Yōshoku dish consisting of traditional meat (chicken or pork), mixed vegetables, onion, carrot, and potato (and cabbage)</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://thesimplesprinkle.com/wp-content/uploads/2022/11/brocks-lazy-boy-no-chew-stew-pokemon-blog-11.jpg" alt="Lazy Boy No Chew Stew" className="imageUpdates"/>
    );
 }
 

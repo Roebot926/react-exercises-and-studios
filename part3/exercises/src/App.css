@@ -36,15 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.recipePhotoBlock {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.imageUpdates {
-  padding-left: 25%;
-  object-fit: contain;
-  width:25%;
-  height:10;
-}

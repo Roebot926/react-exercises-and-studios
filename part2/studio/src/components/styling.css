@@ -23,6 +23,7 @@
  }
  
  .authorImage {
+  border: 1px solid;
    border-radius: 50%;
    width: 160px;
    height: 170px;
